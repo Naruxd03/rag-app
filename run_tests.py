@@ -6,6 +6,7 @@ QUESTIONS = [
     "When was Sputnik 1 launched?",
     "Who won the 2022 FIFA World Cup?",
     "Which spacecraft has travelled the farthest and which one carried humans to the Moon?",
+    "Who owns the telescope?"
 ]
 
 vectors, chunks = load_index()
